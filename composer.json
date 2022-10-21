@@ -119,6 +119,9 @@
             "drupal/core": "-p2"
         },
         "patches": {
+            "drupal/entity_browser": {
+                "Issue #3308674: Drupal 10 Compatibility issues": "https://www.drupal.org/files/issues/2022-09-14/3308674-2-d10-compatibility-fix.patch"
+            }
         }
     },
     "scripts": {
