@@ -1,0 +1,26 @@
+diff --git a/tests/src/FunctionalJavascript/InlineEntityFormTest.php b/tests/src/FunctionalJavascript/InlineEntityFormTest.php
+index 97c8733..8c17038 100644
+--- a/tests/src/FunctionalJavascript/InlineEntityFormTest.php
++++ b/tests/src/FunctionalJavascript/InlineEntityFormTest.php
+@@ -18,7 +18,7 @@ class InlineEntityFormTest extends EntityBrowserWebDriverTestBase {
+   /**
+    * {@inheritdoc}
+    */
+-  protected $defaultTheme = 'classy';
++  protected $defaultTheme = 'stable9';
+ 
+   /**
+    * {@inheritdoc}
+diff --git a/tests/src/FunctionalJavascript/ParagraphsTest.php b/tests/src/FunctionalJavascript/ParagraphsTest.php
+index 2e86416..724659d 100644
+--- a/tests/src/FunctionalJavascript/ParagraphsTest.php
++++ b/tests/src/FunctionalJavascript/ParagraphsTest.php
+@@ -12,7 +12,7 @@ class ParagraphsTest extends EntityBrowserWebDriverTestBase {
+   /**
+    * {@inheritdoc}
+    */
+-  protected $defaultTheme = 'classy';
++  protected $defaultTheme = 'stable9';
+ 
+   /**
+    * {@inheritdoc}
